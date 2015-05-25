@@ -26,7 +26,7 @@ public class UserInterface extends JFrame {
 		} catch (Exception e) { }
 		
 		fileChooser = new JFileChooser();
-		setTitle("Menu");
+		setTitle("Text Editor");
 		setSize(WIDTH, HEIGHT);
 		
 		JMenuBar menu = new JMenuBar();
